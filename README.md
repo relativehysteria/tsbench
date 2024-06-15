@@ -6,6 +6,7 @@ used as a very very rough idea about what is going on:
 1. it's linux
 2. i'm currently listening to nirvana
 3. there's a browser(!!!) running on the system somewhere
+4. no winsor (given the extreme behavior of threads, this is quite important)
 
 ## theorem for the dumb
 
